@@ -1,19 +1,4 @@
 # TechBrian-QuantumEmpire
-<style>
-.neon-line {
-  height: 4px;
-  background: linear-gradient(90deg, transparent, #00ffcc, transparent);
-  border-radius: 2px;
-  box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #00ffcc;
-  animation: glow 2s infinite alternate;
-}
-@keyframes glow {
-  from { box-shadow: 0 0 10px #00ffcc; }
-  to { box-shadow: 0 0 30px #00ffcc, 0 0 50px #00ffcc; }
-}
-</style>
-
-<div align="center">
 
 # 🌌 **Tech Brian Organization**  
 ### *Global Leader in AI · Blockchain · Cloud · Digital Transformation*
